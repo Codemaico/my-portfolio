@@ -359,7 +359,7 @@ p {
     margin: 15px 25px;
     transition: 0.2s ease;
     position: relative;
-    background-color: #eceaea;
+    background-color: #c9c9c9;
 }
 
 #eduBg .edu:hover {
@@ -448,6 +448,7 @@ p {
     font-size: 22px;
     font-weight: 700;
     color: #fff;
+    margin-top: 50px;
 }
 
 #newsletter p {
